@@ -4,8 +4,8 @@ import numpy as np
 
 # 模块零：标题与表头
 st.write("""
-# DNA数据存储编码系统原型
-密码子（杭州）科技有限公司，最后更新: 2022 Feb 14
+# DNA存储系统
+**最后更新: 2022 Feb 14**
 """)
 
 def get_oringinal_binary_data(file):
